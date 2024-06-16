@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I started putting some links into my enterprise github of blogposts i particularly like, so at the risk of being excessively cringe I will start doing so here as well.
+I started putting some links into my enterprise github of blogposts I particularly like, so at the risk of being excessively cringe I will start doing so here as well.
 
 [do-not-be-the-smartest-in-the-room-try-to-be-the-kindest](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
 
