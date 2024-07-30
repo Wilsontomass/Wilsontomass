@@ -8,4 +8,4 @@ I started putting some links into my enterprise github of blogposts I particular
 
 [if-you-dont-understand-a-problem-you-re-not-allowed-to-fix-it](https://therealgriff.medium.com/if-you-dont-understand-a-problem-you-re-not-allowed-to-fix-it-af6b8054606c)
 
-[advice](https://dynomight.substack.com/p/advice)
+[advice](https://dynomight.substack.com/p/advice), [Things to be thankful for](https://dynomight.net/thanks/) and basically anything written by [DYNOMIGHT](https://dynomight.net)
