@@ -14,8 +14,6 @@ Everything not massively outdated in [The Mythical Man Month](https://en.wikiped
 
 Lots of the work by [Joel Spolsky](https://www.joelonsoftware.com) but of course [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 
-Sometimes [David Heinemeier Hansson](https://world.hey.com/dhh) writes some good stuff.
-
 ---
 
 At this point if you haven't already realised this is mostly just posts you regularly find on [Hackernews](https://news.ycombinator.com)
