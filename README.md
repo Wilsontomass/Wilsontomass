@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A post by me: [Complexity Fills the Space it's Given](https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8)
+A post by me: [Complexity Fills the Space it's Given](https://wilsoniumite.com/2024/08/31/complexity-fills-the-space-its-given/)
 
 I started putting some links into my enterprise github of blogposts I particularly like, so at the risk of being excessively cringe I will start doing so here as well.
 
