@@ -8,7 +8,7 @@ I started putting some links into my enterprise github of blogposts I particular
 
 [if-you-dont-understand-a-problem-you-re-not-allowed-to-fix-it](https://therealgriff.medium.com/if-you-dont-understand-a-problem-you-re-not-allowed-to-fix-it-af6b8054606c)
 
-[Advice](https://dynomight.substack.com/p/advice), [Things to be thankful for](https://dynomight.net/thanks/) and basically anything written by [DYNOMIGHT](https://dynomight.net)
+[Advice](https://dynomight.substack.com/p/advice), [Things to be thankful for](https://dynomight.net/thanks/) and most other stuff written by [DYNOMIGHT](https://dynomight.net)
 
 Everything not massively outdated in [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
