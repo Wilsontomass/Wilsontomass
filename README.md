@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-A post by me: [Complexity Fills the Space it's Given](https://wilsoniumite.com/2024/08/31/complexity-fills-the-space-its-given/)
+Some posts by me: 
+[Complexity Fills the Space it's Given](https://wilsoniumite.com/2024/08/31/complexity-fills-the-space-its-given/)
+[Are LLMs Any Good at Ranking People](https://wilsoniumite.com/2024/10/18/are-llms-any-good-at-ranking-people/)
 
 I started putting some links into my enterprise github of blogposts I particularly like, so at the risk of being excessively cringe I will start doing so here as well.
 
