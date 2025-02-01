@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 Some posts by me:  
-[Complexity Fills the Space it's Given](https://wilsoniumite.com/2024/08/31/complexity-fills-the-space-its-given/)  
+[If I Could Wave a Magic Wand](https://wilsoniumite.com/2024/12/30/if-i-could-wave-a-magic-wand/)
 [Are LLMs Any Good at Ranking People](https://wilsoniumite.com/2024/10/18/are-llms-any-good-at-ranking-people/)
+[We’ve lost our respect for complexity](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/)
 
 I started putting some links into my enterprise github of posts I particularly like, so at the risk of being excessively cringe I will start doing so here as well.
 
